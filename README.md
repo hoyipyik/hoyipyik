@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoyipyik
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React, Vue, JavaScript
+- 👀 I’m interested in Frontend and Backend
+- 🌱 I’m currently learning Java SpringBoot and Mybatis
 - 💞️ I’m looking to collaborate on Frontend
 - 📫 How to reach me hoyipyik@protonmail.com
 
