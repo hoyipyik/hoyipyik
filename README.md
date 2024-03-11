@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hoyipyik
-- 👀 I’m interested in Frontend and Backend
-- 🌱 I’m currently learning Java SpringBoot and Mybatis
-- 💞️ I’m looking to collaborate on Frontend
-- 📫 How to reach me hoyipyik@protonmail.com
+- 👀 I’m interested in React, Golang, Java and Kotlin
+- 🌱 I’m currently learning Java SpringBoot and Kafka
+- 💞️ I’m looking to collaborate on Full Stack Developing.
+- 📫 How to reach me real.yeyi.he@gmail.com
 
 <!---
 hoyipyik/hoyipyik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
