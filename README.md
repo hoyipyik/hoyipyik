@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hoyipyik
-I am bored of doing internal work only. Let's open source some repo.
 
 - 📫 How to reach me real.yeyi.he@gmail.com
 
