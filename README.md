@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hoyipyik
-- 👀 I’m interested in React, Golang, Java and Kotlin
-- 🌱 I’m currently learning Java SpringBoot and Kafka
-- 💞️ I’m looking to collaborate on Full Stack Developing.
+I am bored of doing internal work only. Let's open source some repo.
+
 - 📫 How to reach me real.yeyi.he@gmail.com
 
 <!---
